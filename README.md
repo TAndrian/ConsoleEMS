@@ -10,16 +10,16 @@
 
 ## Progrmaming language
 
-<span>C#</span>
+<span>:point_right:C#</span>
 
 <br/>
 
 <h2 style="margin-right:10px">Technologies: </h2>
-<img src="./assets/icon/star.png" width=15px height=15px alt="finger pointing icon" style="margin-right:10px"/>Collection
-<br/>
-<img src="./assets/icon/star.png" width=15px height=15px alt="finger pointing icon" style="margin-right:10px"/>LinQ
-<br/>
-<img src="./assets/icon/star.png" width=15px height=15px alt="finger pointing icon" style="margin-right:10px"/>Object Oriented Programming
+<ul>
+    <li>:star2:Collection</li>
+    <li>:star2:LinQ</li>
+    <li>:star2:Object Oriented Programming</li>
+</ul>
 
 <br/>
 
