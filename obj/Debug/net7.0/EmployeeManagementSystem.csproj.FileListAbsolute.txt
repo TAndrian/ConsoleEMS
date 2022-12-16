@@ -1,0 +1,15 @@
+C:\Users\lost\Desktop\Learn.Net\EmployeeManagementSystem\bin\Debug\net7.0\EmployeeManagementSystem.exe
+C:\Users\lost\Desktop\Learn.Net\EmployeeManagementSystem\bin\Debug\net7.0\EmployeeManagementSystem.deps.json
+C:\Users\lost\Desktop\Learn.Net\EmployeeManagementSystem\bin\Debug\net7.0\EmployeeManagementSystem.runtimeconfig.json
+C:\Users\lost\Desktop\Learn.Net\EmployeeManagementSystem\bin\Debug\net7.0\EmployeeManagementSystem.dll
+C:\Users\lost\Desktop\Learn.Net\EmployeeManagementSystem\bin\Debug\net7.0\EmployeeManagementSystem.pdb
+C:\Users\lost\Desktop\Learn.Net\EmployeeManagementSystem\obj\Debug\net7.0\EmployeeManagementSystem.csproj.AssemblyReference.cache
+C:\Users\lost\Desktop\Learn.Net\EmployeeManagementSystem\obj\Debug\net7.0\EmployeeManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lost\Desktop\Learn.Net\EmployeeManagementSystem\obj\Debug\net7.0\EmployeeManagementSystem.AssemblyInfoInputs.cache
+C:\Users\lost\Desktop\Learn.Net\EmployeeManagementSystem\obj\Debug\net7.0\EmployeeManagementSystem.AssemblyInfo.cs
+C:\Users\lost\Desktop\Learn.Net\EmployeeManagementSystem\obj\Debug\net7.0\EmployeeManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\lost\Desktop\Learn.Net\EmployeeManagementSystem\obj\Debug\net7.0\EmployeeManagementSystem.dll
+C:\Users\lost\Desktop\Learn.Net\EmployeeManagementSystem\obj\Debug\net7.0\refint\EmployeeManagementSystem.dll
+C:\Users\lost\Desktop\Learn.Net\EmployeeManagementSystem\obj\Debug\net7.0\EmployeeManagementSystem.pdb
+C:\Users\lost\Desktop\Learn.Net\EmployeeManagementSystem\obj\Debug\net7.0\EmployeeManagementSystem.genruntimeconfig.cache
+C:\Users\lost\Desktop\Learn.Net\EmployeeManagementSystem\obj\Debug\net7.0\ref\EmployeeManagementSystem.dll
