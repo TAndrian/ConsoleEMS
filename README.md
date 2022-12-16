@@ -2,6 +2,8 @@
 <h2>Description</h2>
 <p>E.M.S. or Employee Management System is a console application which allows users to get, search and delete an existing collection of employee.</p>
 
+Download the EMS.zip file, then unzip it and run the "EmployeeManagementSystem.exe" to launch the application
+
 <span style="color:red; font-weight:900">/ ! \ </span>
 
 <p>Note that each time the application is launched, 10 employees will always be created by default.</p>
